@@ -72,8 +72,8 @@
   <project path="external/zip" name="external_zip" remote="aoscp" />
 
   <!-- Frameworks -->
-  <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="aoscp" />
-  <project path="frameworks/base" name="frameworks_base" remote="aoscp" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/av" name="Suicide-Squirrel/frameworks_av" groups="pdk" remote="github" revision="nougat-mr2" />
+  <project path="frameworks/base" name="Suicide-Squirrel/frameworks_base" remote="github" groups="pdk-cw-fs,pdk-fs" revision="nougat-mr2" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="aoscp" />
   <project path="frameworks/opt/aoscp" name="frameworks_opt_aoscp"  remote="aoscp" />
   <project path="frameworks/opt/net/ims" name="platform/frameworks/opt/net/ims" groups="frameworks_ims,pdk-cw-fs,pdk-fs" remote="caf" />
