@@ -11,7 +11,7 @@ Initializing Repository
 
 Initiate core trees without any device/kernel/vendor:
 
-    $ repo init -u https://github.com/Suicide-Squirrel/platform_manifest.git -b nougat-mr2
+    $ repo init -u https://github.com/Suicide-Squirrel/platform_manifest.git -b aoscp-n
 
 Sync the repository:
 
