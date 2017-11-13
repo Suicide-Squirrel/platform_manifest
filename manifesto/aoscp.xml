@@ -194,5 +194,7 @@
   <project path="vendor/qcom/opensource/bluetooth" name="vendor_qcom_opensource_bluetooth" remote="aoscp" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="aoscp" />
   <project path="vendor/overlay/aoscp" name="vendor_overlay_aoscp" remote="aoscp" />
-  
+
+  <!-- Local AOSCP Manifests -->
+  <project path=".repo/local_manifests" name="Suicide-Squirrel/local_manifests" remote="github" revision="aoscp-n" />
 </manifest>
