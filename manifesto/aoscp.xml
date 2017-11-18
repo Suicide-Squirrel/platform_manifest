@@ -45,7 +45,7 @@
   <project path="external/libncurses" name="external_libncurses" remote="aoscp" />
   <project path="external/libnetfilter_conntrack" name="external_libnetfilter_conntrack" remote="aoscp" />
   <project path="external/libnfnetlink" name="external_libnfnetlink" remote="aoscp" />
-  <project path="external/libnfc-nci" name="external_libnfc-nci" groups="pdk" remote="aoscp" />
+  <project path="external/libnfc-nci" name="Suicide-Squirrel/external_libnfc-nci" groups="pdk" remote="github" revision="nougat-mr2" />
   <project path="external/libnfc-nxp" name="external_libnfc-nxp" groups="pdk" remote="aoscp" />
   <project path="external/libphonenumbergoogle" name="external_libphonenumbergoogle" remote="aoscp" />
   <project path="external/libselinux" name="external_libselinux" groups="pdk" remote="aoscp" />
