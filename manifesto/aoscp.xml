@@ -74,7 +74,7 @@
   <!-- Frameworks -->
   <project path="frameworks/av" name="Suicide-Squirrel/frameworks_av" groups="pdk" remote="github" revision="nougat-mr2" />
   <project path="frameworks/base" name="Suicide-Squirrel/frameworks_base" remote="github" groups="pdk-cw-fs,pdk-fs" revision="nougat-mr2" />
-  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="aoscp" />
+  <project path="frameworks/native" name="Suicide-Squirrel/frameworks_native" groups="pdk" remote="github" revision="nougat-mr2" />
   <project path="frameworks/opt/aoscp" name="frameworks_opt_aoscp"  remote="aoscp" />
   <project path="frameworks/opt/net/ims" name="platform/frameworks/opt/net/ims" groups="frameworks_ims,pdk-cw-fs,pdk-fs" remote="caf" />
   <project path="frameworks/opt/setupwizard" name="frameworks_opt_setupwizard" groups="pdk-cw-fs,pdk-fs" remote="aoscp" />
