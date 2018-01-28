@@ -140,7 +140,7 @@
   <project path="hardware/ti/wpan" name="hardware_ti_wpan" remote="aoscp" />
   
   <!-- Qualcomm Sepolicy -->
-  <project path="device/qcom/sepolicy" name="Suicide-Squirrel/device_qcom_sepolicy" remote="github" revision="nougat-mr2" />
+  <project path="device/qcom/sepolicy" name="CypherOS/device_qcom_sepolicy" remote="github" revision="nougat-mr2" />
   <!-- Qualcomm HAL Packages -->
   <project path="hardware/qcom/audio/default" name="hardware_qcom_audio" groups="qcom,qcom_audio" remote="aoscp" />
   <project path="hardware/qcom/audio-caf/apq8084" name="hardware_qcom_audio" groups="qcom,qcom_audio" revision="nougat-mr2-8084" remote="aoscp" />
