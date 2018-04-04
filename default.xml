@@ -28,7 +28,7 @@
   <default revision="refs/heads/nougat-mr2"
            remote="aoscp"
            sync-c="true"
-           sync-j="4" />
+           sync-j="8" />
 
   <!-- AOSP Projects -->
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" remote="aosp" />
