@@ -107,7 +107,7 @@
   <project path="system/security" name="system_security" groups="pdk" remote="aoscp" />
   <project path="system/sepolicy" name="system_sepolicy" groups="pdk" remote="aoscp" />
   <project path="system/tools/aidl" name="system_tools_aidl" remote="aoscp" />
-  <project path="system/vold" name="system_vold" groups="pdk" remote="aoscp" />
+  <project path="system/vold" name="android_system_vold" groups="pdk" remote="los" />
   
   <!-- Hardware Layer Resources-->
   <project path="hardware/broadcom/libbt" name="hardware_broadcom_libbt" groups="pdk" remote="aoscp" />
