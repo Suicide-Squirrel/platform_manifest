@@ -1,5 +1,6 @@
-[Unofficial][Android Open Source Cypher Project]
+[Unofficial][Android Open Source Cypher Project][4.2]
 ====================================
+(you can build an unofficial up-to-date AOSCP Nougat rom for any device)
 
 Download the Source
 ===================
@@ -24,7 +25,7 @@ Building
 
 After the sync is finished, please read the [instructions from the Android site](http://s.android.com/source/building.html) on how to build.
 
-    . build/envsetup.sh
+    source build/envsetup.sh
     
     brunch
     
@@ -32,7 +33,7 @@ After the sync is finished, please read the [instructions from the Android site]
 
 You can also build for specific devices (eg. bullhead) like this:
 
-    . build/envsetup.sh
+    source build/envsetup.sh
 
     brunch aoscp_bullhead-userdebug
 
